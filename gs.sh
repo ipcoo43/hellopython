@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# DATE = `date +%Y-%m-%d" "%H:%M`
 DATE = `date +%Y-%m-%d`
 MSG='$DATE lesson'
 
