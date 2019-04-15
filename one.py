@@ -1,0 +1,6 @@
+print('Hello')
+print('Hello\nWorld')
+print("'Hellp'")
+print('"Hello World"')
+print('\'Hello\'')
+print('\"Hello\"')

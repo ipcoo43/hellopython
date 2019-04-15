@@ -1,0 +1,15 @@
+a=int(input('정수 한개 입력 : '))
+print(-a)
+
+b,c=input('정수 두개 입력 : ').split(' ')
+b,c=int(b),int(c)
+print(b+c)
+print(b-c)
+print(b*c)
+print(int(b/c))
+print(b%c)
+
+d,e,f=input('정수 세개 입력 : ').split()
+d,e,f=int(d),int(e),int(f)
+print(d+e+f)
+print((d+e+f)/3)
